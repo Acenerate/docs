@@ -1,4 +1,4 @@
-# Alerts Documentation
+# Alert Documentation
 
 ## Summary
 
