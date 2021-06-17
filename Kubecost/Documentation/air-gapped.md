@@ -31,7 +31,7 @@ for prod-x.xx.x. [Latest releases can be found here](https://github.com/kubecost
 * thanosio/thanos:v0.19.0
 
 
-### Q: How do I configure prices for my on-premise Assets?
+### Q: How do I configure prices for my on-premise assets?
 
 There are two options to configure asset prices in your on-premise Kubernetes environment:
 
